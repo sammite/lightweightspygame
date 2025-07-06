@@ -22,5 +22,3 @@ So I vibe coded up a quick python script that does the same thing. Just get one 
 
 
 That's it, that's the whole thing.
-
-For some fancy, do a `pip install -r requirements.txt` before you go and you'll get the cool spy game text.
