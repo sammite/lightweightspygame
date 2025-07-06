@@ -29,10 +29,8 @@ places_dict = {
         "Train station",
         "Museum",
         "Airport",
-        "Park",
         "Farmer's market",
         "Skyscraper rooftop",
-        "Underground metro",
         "Street food stall"
     ],
     "Luxury Vacations!": [
@@ -57,24 +55,23 @@ places_dict = {
         "Expedition Everest (Animal Kingdom)"
     ],
     "Restaurant Locations!": [
-    "McDonald's",
-    "Chipotle Mexican Grill",
-    "Chick-fil-A",
-    "Olive Garden",
-    "Buffalo Wild Wings",
-    "The Cheesecake Factory",
-    "Texas Roadhouse",
-    "Outback Steakhouse"
+        "McDonald's",
+        "Chipotle Mexican Grill",
+        "Chick-fil-A",
+        "Olive Garden",
+        "Buffalo Wild Wings",
+        "The Cheesecake Factory",
+        "Texas Roadhouse",
+        "Outback Steakhouse"
     ],
     "Fantasy Worlds!": [
-    "Middle-earth (The Lord of the Rings)",
-    "Arendelle (Frozen)",
-    "Narnia (The Chronicles of Narnia)",
-    "Hogwarts (Harry Potter)",
-    "The Shire (The Lord of the Rings)",
-    "Pandora (Avatar)",
-    "The Wizarding World (Harry Potter theme parks)",
-    "The Land of Oz (The Wizard of Oz)"
+        "Middle-earth (The Lord of the Rings)",
+        "Arendelle (Frozen)",
+        "Narnia (The Chronicles of Narnia)",
+        "Hogwarts (Harry Potter)",
+        "The Shire (The Lord of the Rings)",
+        "The Wizarding World (Harry Potter theme parks)",
+        "The Land of Oz (The Wizard of Oz)"
     ]
 
 
